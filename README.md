@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali7815" alt="ali7815" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Engineering**
+- 🌱 I’m currently learning **Computer Vision and Image Processing & Enterprise Application Development**
 
 - 📫 How to reach me **haider5568761@gmail.com**
 
