@@ -9,7 +9,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali7haider" alt="ali7haider" /></a> </p> -->
 - 🌱 I’m currently learning **Computer Vision and Image Processing & Enterprise Application Development**
 
-- 👨‍💻 All of my projects are available at [https://ali7haidercs.000webhostapp.com/](https://ali7haidercs.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://ali7haider.netlify.app/](https://ali7haider.netlify.app/)
 
 - 📫 How to reach me **haider5568761@gmail.com**
 
