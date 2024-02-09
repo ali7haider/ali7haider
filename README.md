@@ -1,4 +1,4 @@
-![logo](https://github.com/ali7haider/ali7haider/blob/main/images.png)
+![logo](https://github.com/ali7haider/ali7haider/blob/main/lap.gif)
 
 <h1 align="center">Hi 👋, I'm Ali Haider</h1>
 <h3 align="center">A passionate MERN stack and desktop app developer.</h3>
