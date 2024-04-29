@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ali7haider.netlify.app/](https://ali7haider.netlify.app/)
 
-- 📫 How to reach me **haider5568761@gmail.com**
+- 📫 How to reach me **ali7haider.dev@gmail.com**
 
 - ⚡ Fun fact **Football Lover**
 
