@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali7haider&label=Profile%20views&color=0e75b6&style=flat" alt="ali7haider" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali7haider" alt="ali7haider" /></a> </p> -->
-- 🌱 I’m currently working as **Associate Software Engineer at Sysvoy**
+- 🌱 I’m currently working as **Software Engineer at Pentaloop**
 
 - 👨‍💻 All of my projects are available at [https://ali7haider.netlify.app/](https://ali7haider.netlify.app/)
 
