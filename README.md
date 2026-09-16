@@ -47,9 +47,9 @@ It helps preserve architecture decisions, coding standards, project knowledge, p
 npx agent-dev-framework init
 ```
 
-[![npm](https://img.shields.io/npm/v/agent-dev-framework?style=for-the-badge\&logo=npm\&logoColor=white\&color=CB3837)](https://www.npmjs.com/package/agent-dev-framework)
-[![npm downloads](https://img.shields.io/npm/dw/agent-dev-framework?style=for-the-badge\&logo=npm\&logoColor=white\&color=CB3837)](https://www.npmjs.com/package/agent-dev-framework)
-[![GitHub](https://img.shields.io/badge/GitHub-agent--dev--framework-181717?style=for-the-badge\&logo=github)](https://github.com/ali7haider/agent-dev-framework)
+[![npm](https://img.shields.io/npm/v/agent-dev-framework?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/agent-dev-framework)
+[![npm downloads](https://img.shields.io/npm/dw/agent-dev-framework?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/agent-dev-framework)
+[![GitHub](https://img.shields.io/badge/GitHub-agent--dev--framework-181717?style=for-the-badge&logo=github)](https://github.com/ali7haider/agent-dev-framework)
 
 ---
 
@@ -121,16 +121,31 @@ npx agent-dev-framework init
   <img src="https://img.shields.io/badge/Context_Engineering-5865F2?style=for-the-badge" alt="Context Engineering"/>
   <img src="https://img.shields.io/badge/Documentation_Automation-007ACC?style=for-the-badge" alt="Documentation Automation"/>
 </p>
+
 ---
 
 ## 🧠 Core Competencies
 
 `Full-Stack Development` · `System Design` · `Microservices` · `REST APIs` · `Real-Time Systems` · `OOP` · `Design Patterns` · `Data Structures` · `Cloud Computing` · `Agile / Scrum`
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali7haider&show_icons=true&theme=github_dark_blue&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali7haider&layout=compact&theme=github_dark_blue&hide_border=true" width="49%"/>
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ali7haider&theme=onedark&no-frame=true&row=1&column=7" alt="trophies"/>
+</div>
 
 ## 🔥 GitHub Activity
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali7haider&theme=github-compact&hide_border=true" alt="Ali Haider's Activity Graph" width="100%"/>
 
 <a href="https://github.com/ali7haider">
   <img src="https://streak-stats.demolab.com?user=ali7haider&theme=github-dark-blue&hide_border=true" alt="Ali Haider's GitHub Streak"/>
@@ -138,7 +153,7 @@ npx agent-dev-framework init
 
 </div>
 
-
+---
 
 ## 🌐 Connect With Me
 
