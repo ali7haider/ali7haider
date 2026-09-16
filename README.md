@@ -127,23 +127,6 @@ npx agent-dev-framework init
 
 `Full-Stack Development` · `System Design` · `Microservices` · `REST APIs` · `Real-Time Systems` · `OOP` · `Design Patterns` · `Data Structures` · `Cloud Computing` · `Agile / Scrum`
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/ali7haider">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ali7haider&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Ali Haider's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/ali7haider">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali7haider&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Ali Haider's Top Languages"/>
-</a>
-
-</div>
-
----
 
 ## 🔥 GitHub Activity
 
@@ -155,22 +138,6 @@ npx agent-dev-framework init
 
 </div>
 
----
-
-## 📈 Contribution Graph
-
-[![Ali Haider's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ali7haider\&theme=github-compact)](https://github.com/ali7haider)
-
----
-
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ali7haider&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-
-</div>
 
 ---
 
