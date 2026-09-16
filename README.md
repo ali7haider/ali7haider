@@ -137,15 +137,9 @@ npx agent-dev-framework init
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali7haider&layout=compact&theme=github_dark_blue&hide_border=true" width="49%"/>
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ali7haider&theme=onedark&no-frame=true&row=1&column=7" alt="trophies"/>
-</div>
-
 ## 🔥 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali7haider&theme=github-compact&hide_border=true" alt="Ali Haider's Activity Graph" width="100%"/>
 
 <a href="https://github.com/ali7haider">
   <img src="https://streak-stats.demolab.com?user=ali7haider&theme=github-dark-blue&hide_border=true" alt="Ali Haider's GitHub Streak"/>
