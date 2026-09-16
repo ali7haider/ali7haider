@@ -133,25 +133,36 @@ npx agent-dev-framework init
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ali7haider&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" height="180"/>
+<a href="https://github.com/ali7haider">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ali7haider&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Ali Haider's GitHub Stats"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali7haider&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ali7haider&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" width="70%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali7haider&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%"/>
+<a href="https://github.com/ali7haider">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali7haider&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Ali Haider's Top Languages"/>
+</a>
 
 </div>
 
 ---
+
+## 🔥 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/ali7haider">
+  <img src="https://streak-stats.demolab.com?user=ali7haider&theme=github-dark-blue&hide_border=true" alt="Ali Haider's GitHub Streak"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Ali Haider's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ali7haider\&theme=github-compact)](https://github.com/ali7haider)
+
+---
+
 
 ## 🏆 GitHub Trophies
 
