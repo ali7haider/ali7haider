@@ -130,12 +130,6 @@ npx agent-dev-framework init
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali7haider&show_icons=true&theme=github_dark_blue&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali7haider&layout=compact&theme=github_dark_blue&hide_border=true" width="49%"/>
-</p>
 
 ## 🔥 GitHub Activity
 
