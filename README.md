@@ -18,7 +18,7 @@
 
 ```yaml
 name      : Ali Haider
-role      : Software Engineer @ Pentaloop
+role      : Software Engineer @Pentaloop
 location  : Pakistan 🇵🇰
 focus     : Full-Stack Development, System Design & Cloud
 currently : Building scalable web applications & developer tools
