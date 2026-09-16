@@ -18,7 +18,7 @@
 
 ```yaml
 name       : Ali Haider
-role       : Software Engineer @ Pentaloop
+role       : Software Engineer @Pentaloop
 location   : Pakistan 🇵🇰
 currently  : Exploring Cloud Computing & System Design
 portfolio  : https://ali7haider.netlify.app
